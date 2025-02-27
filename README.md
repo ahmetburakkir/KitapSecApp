@@ -17,7 +17,8 @@ A new Flutter project.
 
 | Ana Sayfa | Arama | Sepet |
 |-----------|---------|---------|
-| ![Ana Sayfa](https://via.placeholder.com/200) | ![Arama](https://via.placeholder.com/200) | ![Sepet](https://via.placeholder.com/200) |
+| ![Home Page](https://github.com/user-attachments/assets/42f88c1d-9f54-4cff-9b97-bda79668eda6) | ![Arama](https://via.placeholder.com/200) | ![Sepet](https://via.placeholder.com/200) |
+
 
 ## 🛠️ Kullanılan Teknolojiler  
 
