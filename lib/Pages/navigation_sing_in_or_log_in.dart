@@ -23,7 +23,7 @@ class NavigateLogOrSing extends StatelessWidget
                     style: TextStyle(
                       fontSize: 15,
                     ),
-                    'lorem ipsum ss'
+                    'lorem ipsum s'
 
                 ),
                 onTap: () {
