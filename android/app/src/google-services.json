@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "170683770991",
+    "project_id": "kitapsec-2288f",
+    "storage_bucket": "kitapsec-2288f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170683770991:android:3da9608c147bf228a2859a",
+        "android_client_info": {
+          "package_name": "com.kitapapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCskdJ16f77-0GnJhFhOkPndZss9z_h170"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
