@@ -15,10 +15,12 @@ A new Flutter project.
 
 ## 📸 Ekran Görüntüleri  
 
-| Ana Sayfa | Arama | Sepet |
-|-----------|---------|---------|
-| ![Home Page](https://github.com/user-attachments/assets/42f88c1d-9f54-4cff-9b97-bda79668eda6) | ![Sertifika][App Innovators Mobile Dev Journey Bootcamp QR](https://github.com/user-attachments/assets/a59129dc-1436-48d3-8fed-74cbe691b8b8)
-
+| Ana Sayfa |
+|-----------|
+| ![Home Page](https://github.com/user-attachments/assets/42f88c1d-9f54-4cff-9b97-bda79668eda6) 
+| SERTİFİKA |
+|-----------|
+| ![Sertifika][App Innovators Mobile Dev Journey Bootcamp QR](https://github.com/user-attachments/assets/a59129dc-1436-48d3-8fed-74cbe691b8b8)
 
 
 ## 🛠️ Kullanılan Teknolojiler  
